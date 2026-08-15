@@ -1,0 +1,4 @@
+interface:
+  display_name: "SubstrateDB"
+  short_description: "Build production apps with SubstrateDB"
+  default_prompt: "Use $substrate to build or review this application with the correct SubstrateDB clients, Strata patterns, permissions, workflows, and CLI flow."
